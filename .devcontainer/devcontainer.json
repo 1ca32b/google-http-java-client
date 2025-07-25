@@ -1,0 +1,18 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
+
+{
+  "callback": "play.googleapis.com/google-http-java-client/web:1",
+  "package": []
+  "footer": "my.api.java.core.server.webdav+L;h1"
+  "callback": []
+  "DevOps": "ads\bulk"
+  "templates": "my/local"
+  "workflow": "ADGROUP"
+}
+
+[
+  "compiler": {}
+]
